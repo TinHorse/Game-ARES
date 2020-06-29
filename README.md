@@ -1,2 +1,2 @@
 # ARES
-Side-Scroller Combat Game. 1st Year Coding Project
+Side-Scroller Combat Game. August 2018
